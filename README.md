@@ -12,10 +12,6 @@ This app helps you capture moments of gratitude, choose your mood, read daily af
 - 💾 Entries saved in local storage (no data loss on refresh!)
 - 🗑️ Delete entries if needed
 
-## 📸 Preview
-
-![Gratitude Journal Screenshot](./screenshot.png)
-
 ## 🚀 Live Demo
 
 👉 [View it on Vercel](https://gratitude-journal-ten.vercel.app/)
